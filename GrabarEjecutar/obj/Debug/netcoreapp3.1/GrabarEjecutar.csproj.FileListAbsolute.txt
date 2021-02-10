@@ -1,0 +1,13 @@
+C:\Users\Ivanesa\source\repos\GrabarEjecutar\GrabarEjecutar\bin\Debug\netcoreapp3.1\GrabarEjecutar.exe
+C:\Users\Ivanesa\source\repos\GrabarEjecutar\GrabarEjecutar\bin\Debug\netcoreapp3.1\GrabarEjecutar.deps.json
+C:\Users\Ivanesa\source\repos\GrabarEjecutar\GrabarEjecutar\bin\Debug\netcoreapp3.1\GrabarEjecutar.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\GrabarEjecutar\GrabarEjecutar\bin\Debug\netcoreapp3.1\GrabarEjecutar.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\GrabarEjecutar\GrabarEjecutar\bin\Debug\netcoreapp3.1\GrabarEjecutar.dll
+C:\Users\Ivanesa\source\repos\GrabarEjecutar\GrabarEjecutar\bin\Debug\netcoreapp3.1\GrabarEjecutar.pdb
+C:\Users\Ivanesa\source\repos\GrabarEjecutar\GrabarEjecutar\obj\Debug\netcoreapp3.1\GrabarEjecutar.csprojAssemblyReference.cache
+C:\Users\Ivanesa\source\repos\GrabarEjecutar\GrabarEjecutar\obj\Debug\netcoreapp3.1\GrabarEjecutar.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\GrabarEjecutar\GrabarEjecutar\obj\Debug\netcoreapp3.1\GrabarEjecutar.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\GrabarEjecutar\GrabarEjecutar\obj\Debug\netcoreapp3.1\GrabarEjecutar.csproj.CoreCompileInputs.cache
+C:\Users\Ivanesa\source\repos\GrabarEjecutar\GrabarEjecutar\obj\Debug\netcoreapp3.1\GrabarEjecutar.dll
+C:\Users\Ivanesa\source\repos\GrabarEjecutar\GrabarEjecutar\obj\Debug\netcoreapp3.1\GrabarEjecutar.pdb
+C:\Users\Ivanesa\source\repos\GrabarEjecutar\GrabarEjecutar\obj\Debug\netcoreapp3.1\GrabarEjecutar.genruntimeconfig.cache
